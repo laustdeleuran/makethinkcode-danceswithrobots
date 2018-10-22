@@ -1,7 +1,7 @@
 # Swatting flies 
 
 _Primary platform:_ (Mac)
-_Dependencies:_ [SimpleOpenNI](https://github.com/totovr/SimpleOpenni).
+_Dependencies:_ [SimpleOpenNI](https://github.com/totovr/SimpleOpenni)
 
 Moving particles around based on perceived changes in depth. 
 
