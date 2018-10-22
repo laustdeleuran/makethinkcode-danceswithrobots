@@ -10,7 +10,7 @@ This workshop was about creating visual graphics using [Processing](https://proc
 - *Mac OSX*: [SimpleOpenNI](https://github.com/totovr/SimpleOpenni)
 
 
-## Examples
+## Workshop results
 
 - *[Streamers (Windows)](streamers/)* – Draw streams of colors with your hands and feet.
 - *[Swatting flies (Mac)](swatting_flies/)* – Moving particles around based on perceived changes in depth. 
